@@ -1,0 +1,4 @@
+roboticstoolbox-python==1.4.2
+ipykernel
+matplotlib
+numpy
